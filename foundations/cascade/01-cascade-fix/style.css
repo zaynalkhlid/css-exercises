@@ -15,9 +15,10 @@ body {
 
 .para {
   font-size: 22px;
+  font-weight: bold;
 }
 
-.confirm {
+.button.confirm {
   background: green;
   color: white;
   font-weight: bold;
